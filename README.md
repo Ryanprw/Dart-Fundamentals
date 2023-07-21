@@ -1,4 +1,4 @@
-# Dart Programming by ryanprawira 
+# Dart Programming 
 Learn Dart Programming, Fundamentals from scratch.(INDONESIA)
 
 ## Topics Learning..
