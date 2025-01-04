@@ -45,7 +45,6 @@ and add the file project in folder ```/bin```
     - WHILE Loop
     - DO WHILE Loop 
 6. Break
-    
 7. Continue
 8. Function Method
 9. Function Expression
