@@ -10,7 +10,6 @@ Overall, my learning path with Dart has been a rewarding and enjoyable experienc
 _____________________________
 
 ## installing dart
-
 step one :
 
 installing dart sdk from https://dart.dev/get-dart but I choose to install with ```.zip``` file from https://dart.dev/get-dart/archive
